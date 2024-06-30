@@ -9,9 +9,13 @@ mono Task_4.exe "path/to/img"
 <img src = "https://github.com/Rashid12Kandah/Training_Assignment_6/blob/main/Neighborhood_watch_bw.png" alt = "1-bit Image"> 
 
 > Information
+
 >> Image Width: 200
+
 >> Image Height: 140
+
 >> Pixel Format: Format1bppIndexed
+
 >> The image is not 8-bit.
 
 # After Conversion
@@ -20,7 +24,10 @@ mono Task_4.exe "path/to/img"
 
 > Information
 >> Image Width: 200
+
 >> Image Height: 140
+
 >> Pixel Format: Format8bppIndexed
+
 >> The image is 8-bit.
 
