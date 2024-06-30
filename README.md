@@ -31,4 +31,4 @@ mono Task_4.exe "path/to/img"
 
 >> The image is 8-bit.
 
-#### The information of the images are obtained from my code using function <Verify> 
+#### The information of the images are obtained from my code using function "Verify"
